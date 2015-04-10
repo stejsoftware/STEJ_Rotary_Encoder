@@ -1,6 +1,7 @@
 # STEJ_Rotary_Encoder
 Arduino class to read a rotary encoder.
 
-# Notes
+## Notes
 * v0.1 ~ pre release
-** enocder used: https://www.sparkfun.com/products/10982
+ * Arduino used: https://www.sparkfun.com/products/11021
+ * enocder used: https://www.sparkfun.com/products/10982
